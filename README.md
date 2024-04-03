@@ -9,12 +9,11 @@ Auto trade on Backpack exchange with Javascript:
 - Trading Pair: $WEN/$USDC
 ----------------------------
  
-  Video Guide: https://x.com/solotop999/status/1759194264830198145?s=20
 
 ----------------------------
-1. Create account: [Backpack](https://backpack.exchange/refer/TOP)
+1. Create account: [Backpack](https://backpack.exchange/)
 
-2. Download code: [solotop999/auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange/archive/refs/heads/main.zip)
+2. Download code: ``` git clone https://github.com/Zlkcyber/backpackbot.git ```
 
 3. Create backpack API: https://backpack.exchange/settings/api-keys
 
