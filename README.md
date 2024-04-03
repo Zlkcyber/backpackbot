@@ -13,7 +13,7 @@ Auto trade on Backpack exchange with Javascript:
 ----------------------------
 1. Create account: [Backpack](https://backpack.exchange/)
 
-2. Download code: ``` git clone https://github.com/Zlkcyber/backpackbot.git ```
+2. Download code: ``` git clone https://github.com/Zlkcyber/backpackbot.git ``` and move to dir ` cd backpackbot `
 
 3. Create backpack API: https://backpack.exchange/settings/api-keys
 
